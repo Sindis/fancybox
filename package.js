@@ -2,7 +2,7 @@ Package.describe({
   name: 'sinda:fancybox',
   summary: 'FancyBox created to use with Meteor',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/Sindis/fancybox'
 });
 
 Package.onUse(function(api) {
